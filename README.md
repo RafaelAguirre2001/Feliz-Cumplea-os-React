@@ -2,11 +2,11 @@
 Este es un pequeño proyecto en React . El cual podrás enviar a tus amigos para saludarlos por su cumpleaños  :D
 Para correr este proyecto lo que tienes que hacer es
 instalar las dependencias
-##'yarn'
+### 'yarn'
 o
-##'npm i'
+### 'npm i'
 
 para correrlo 
-##'yarn start'
+### 'yarn start'
 o
-##'npm start'
+### 'npm start'
