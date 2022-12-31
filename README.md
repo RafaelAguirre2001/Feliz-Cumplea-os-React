@@ -4,9 +4,9 @@ Para correr este proyecto lo que tienes que hacer es
 instalar las dependencias
 ### 'yarn'
 o
-### 'npm i'
+### `npm i`
 
 para correrlo 
-### 'yarn start'
+### `yarn start`
 o
-### 'npm start'
+### `npm start`
